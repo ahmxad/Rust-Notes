@@ -29,6 +29,6 @@ These are just few problems which I've uploaded on Github. See more on my Codewa
 
 ---
 <p align="center">
-  Made with ❤️ by <a href="https://github.com/dev-4hmad">Muhammad Ahmad</a>  
+  Made with ❤️ by <a href="https://github.com/ahmxad">Muhammad Ahmad</a>  
 </p>
 
