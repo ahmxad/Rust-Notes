@@ -18,8 +18,8 @@ Most of the problems which I solve are from [Codewars](https://www.codewars.com/
   - [LeetCode](/LeetCode-Problems/)
 
 These are just few problems which I've uploaded on Github. See more on my Codewars and LeetCode accounts:
- - https://www.codewars.com/users/dev-4hmad
- - https://leetcode.com/u/dev-4hmad/
+ - https://www.codewars.com/users/ahmxad
+ - https://leetcode.com/u/ahmxad/
 
 ---
 
